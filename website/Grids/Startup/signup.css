@@ -1,0 +1,10 @@
+.center{
+     display:black;
+     margin-left: auto;
+     margin-right: auto; 
+     width: 50%;
+     position: center;
+}
+body{ 
+    background-color: thistle
+}
